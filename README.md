@@ -1,5 +1,10 @@
 # MiAPP
-
+# Asignacion de tareas al equipo 0
+# Alejandro
+# Pablo
+# Aaron
+# Sergi C
+# Jose Soler
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
 ## Development server
